@@ -1,0 +1,12 @@
+#aboutpage{
+    position:relative;
+    opacity: 0;
+    left: 0;
+    transition: opacity 1s;
+}
+
+.row{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}

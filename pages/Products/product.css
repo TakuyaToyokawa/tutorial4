@@ -1,0 +1,8 @@
+#productpage{
+    background: #eeF;
+    padding: 20px;
+    border-radius: 20px;
+    position:absolute;
+    top:100%;
+    transition: top 1s;
+}
